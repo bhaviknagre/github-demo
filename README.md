@@ -1,5 +1,5 @@
 # Starter Project 
-This is a simple practise repo just for practise Purpose, Adding a line for rebasing example
+This is a simple practise repo just for practise Purpose, Adding a line for rebasing example, then more changes from myend too
 
 ## Introduction 
 This is a example to show diffrent git repository and various commits 
