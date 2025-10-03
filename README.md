@@ -1,2 +1,5 @@
-# github-demo
-A simple repository to practice Git Workflow
+# Starter Project 
+
+## Introduction 
+
+## Purpose
